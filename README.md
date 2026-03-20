@@ -1,10 +1,10 @@
-# Project 6 - *Name of App Here*
+# Project 6 - *TranslationMe*
 
-Submitted by: **Your Name Here**
+Submitted by: **Abel Plascencia**
 
-**Name of your app** is an app that ... [TODO] 
+**TranslationMe** is an app that translates langauges to any other language
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
